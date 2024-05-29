@@ -17,8 +17,8 @@ namespace WebApiEx.Controllers
 
       
         [HttpGet]
-        [SwaggerOperation(Summary = "Get all persons", Description = "Retrieves a list of all persons")]
-        [ProducesResponseType(StatusCodes.Status200OK)]
+        [SwaggerOperation(Summary = "Get all persons", Description = "Retrieves a list of all persons")]    //Koristio chat gpt za ove opise
+        [ProducesResponseType(StatusCodes.Status200OK)] // i ove 
         public ActionResult<IEnumerable<Person>> GetPersons()
         {
             return Ok(persons);
