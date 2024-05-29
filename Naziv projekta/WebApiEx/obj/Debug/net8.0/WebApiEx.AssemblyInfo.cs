@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1784332158ce698b0f9b316ea324d934c08cc952")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fd71c089d51e3f7335026de04360d45abd33253")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
