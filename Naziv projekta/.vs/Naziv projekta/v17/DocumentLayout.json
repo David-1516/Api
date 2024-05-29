@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52B4D2C0-6EFA-4F6A-A75F-6C5789E64A68}|WebApiEx\\WebApiEx.csproj|c:\\users\\student\\desktop\\api\\naziv projekta\\webapiex\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52B4D2C0-6EFA-4F6A-A75F-6C5789E64A68}|WebApiEx\\WebApiEx.csproj|solutionrelative:webapiex\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52B4D2C0-6EFA-4F6A-A75F-6C5789E64A68}|WebApiEx\\WebApiEx.csproj|c:\\users\\student\\desktop\\api\\naziv projekta\\webapiex\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4D2C0-6EFA-4F6A-A75F-6C5789E64A68}|WebApiEx\\WebApiEx.csproj|solutionrelative:webapiex\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4D2C0-6EFA-4F6A-A75F-6C5789E64A68}|WebApiEx\\WebApiEx.csproj|c:\\users\\student\\desktop\\api\\naziv projekta\\webapiex\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4D2C0-6EFA-4F6A-A75F-6C5789E64A68}|WebApiEx\\WebApiEx.csproj|solutionrelative:webapiex\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4D2C0-6EFA-4F6A-A75F-6C5789E64A68}|WebApiEx\\WebApiEx.csproj|c:\\users\\student\\desktop\\api\\naziv projekta\\webapiex\\webapiex.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{52B4D2C0-6EFA-4F6A-A75F-6C5789E64A68}|WebApiEx\\WebApiEx.csproj|solutionrelative:webapiex\\webapiex.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52B4D2C0-6EFA-4F6A-A75F-6C5789E64A68}|WebApiEx\\WebApiEx.csproj|c:\\users\\student\\desktop\\api\\naziv projekta\\webapiex\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52B4D2C0-6EFA-4F6A-A75F-6C5789E64A68}|WebApiEx\\WebApiEx.csproj|solutionrelative:webapiex\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52B4D2C0-6EFA-4F6A-A75F-6C5789E64A68}|WebApiEx\\WebApiEx.csproj|c:\\users\\student\\desktop\\api\\naziv projekta\\webapiex\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52B4D2C0-6EFA-4F6A-A75F-6C5789E64A68}|WebApiEx\\WebApiEx.csproj|solutionrelative:webapiex\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52B4D2C0-6EFA-4F6A-A75F-6C5789E64A68}|WebApiEx\\WebApiEx.csproj|c:\\users\\student\\desktop\\api\\naziv projekta\\webapiex\\webapiex.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{52B4D2C0-6EFA-4F6A-A75F-6C5789E64A68}|WebApiEx\\WebApiEx.csproj|solutionrelative:webapiex\\webapiex.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{52B4D2C0-6EFA-4F6A-A75F-6C5789E64A68}|WebApiEx\\WebApiEx.csproj|c:\\users\\student\\desktop\\api\\naziv projekta\\webapiex\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4D2C0-6EFA-4F6A-A75F-6C5789E64A68}|WebApiEx\\WebApiEx.csproj|solutionrelative:webapiex\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52B4D2C0-6EFA-4F6A-A75F-6C5789E64A68}|WebApiEx\\WebApiEx.csproj|c:\\users\\student\\desktop\\api\\naziv projekta\\webapiex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,19 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "WebApiEx\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "WebApiEx\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:31:15.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\Person.cs",
-              "RelativeDocumentMoniker": "WebApiEx\\Person.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\Person.cs",
-              "RelativeToolTip": "WebApiEx\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "WebApiEx\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\Models\\Person.cs",
+              "RelativeToolTip": "WebApiEx\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T08:12:26.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "WebApiEx\\Controllers\\WeatherForecastController.cs",
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WebApiEx.http",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\WebApiEx.http",
               "RelativeDocumentMoniker": "WebApiEx\\WebApiEx.http",
@@ -73,12 +90,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WebApiEx\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\WeatherForecast.cs",
-              "RelativeToolTip": "WebApiEx\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\Models\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApiEx\\Models\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\Models\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApiEx\\Models\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T07:07:50.567Z",
@@ -86,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\Program.cs",
               "RelativeDocumentMoniker": "WebApiEx\\Program.cs",
               "ToolTip": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\Program.cs",
               "RelativeToolTip": "WebApiEx\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAVAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAADgvwoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T07:07:45.096Z",
               "EditorCaption": ""
