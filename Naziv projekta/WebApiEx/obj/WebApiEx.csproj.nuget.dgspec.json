@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\WebApiEx.csproj": {}
+    "C:\\Users\\David\\OneDrive\\Desktop\\api\\Naziv projekta\\WebApiEx\\WebApiEx.csproj": {}
   },
   "projects": {
-    "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\WebApiEx.csproj": {
+    "C:\\Users\\David\\OneDrive\\Desktop\\api\\Naziv projekta\\WebApiEx\\WebApiEx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\WebApiEx.csproj",
+        "projectUniqueName": "C:\\Users\\David\\OneDrive\\Desktop\\api\\Naziv projekta\\WebApiEx\\WebApiEx.csproj",
         "projectName": "WebApiEx",
-        "projectPath": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\WebApiEx.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\Desktop\\Api\\Naziv projekta\\WebApiEx\\obj\\",
+        "projectPath": "C:\\Users\\David\\OneDrive\\Desktop\\api\\Naziv projekta\\WebApiEx\\WebApiEx.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David\\OneDrive\\Desktop\\api\\Naziv projekta\\WebApiEx\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
